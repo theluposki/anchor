@@ -96,34 +96,34 @@ a:active {
 .two {
     background-color: #da7980;
     transition: all ease-in-out .5s;
-    transform: translateX(-100px);
-    border-radius: 50px 0 0 50px;
+    transform: translateX(-20px);
+    border-radius: 50px 3px 3px 50px;
 }
 .tree {
   background-color: #944fa4;
   transition: all ease-in-out .5s;
-  transform: translateX(-200px);
-  border-radius: 50px 0 0 50px;
+  transform: translateX(-40px);
+  border-radius: 50px 3px 3px 50px;
 }
 .for {
   background-color: #f08418;
   transition: all ease-in-out .5s;
-  transform: translateX(-300px);
-  border-radius: 50px 0 0 50px;
+  transform: translateX(-60px);
+  border-radius: 50px 3px 3px 50px;
 }
 .five {
   background-color: #94efdc;
   transition: all ease-in-out .5s;
-  transform: translateX(-400px);
+  transform: translateX(-80px);
   border-radius: 50px 50px 50px 50px;
-  z-index: 1;
+  z-index: 0;
 }
 .six {
   background-color: #0080ff;
   transition: all ease-in-out .5s;
   max-width: 97vw;
   min-width: 97vw;
-  transform: translateX(-500px);
-  border-radius: 50px 0 0 50px;
-  z-index: 0;
+  transform: translateX(-100px);
+  border-radius: 50px 3px 3px 50px;
+  z-index: 1;
 }
